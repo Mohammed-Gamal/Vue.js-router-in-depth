@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_router_travel"]=self["webpackChunkvue_router_travel"]||[]).push([[339],{8339:function(e,r,u){u.r(r),u.d(r,{default:function(){return l}});var n=u(3396);function t(e,r){return(0,n.wg)(),(0,n.iD)("h1",null,"Invoices Page!")}var a=u(89);const c={},v=(0,a.Z)(c,[["render",t]]);var l=v}}]);
+//# sourceMappingURL=339.84dd2bdc.js.map
